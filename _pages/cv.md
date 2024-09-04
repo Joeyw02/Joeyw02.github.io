@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, Jilin University, 2024 (expected)
+* Ph.D.                                     
+* B.S. in Computer Science, Jilin University, 2024 
 
 Work experience
 ======
