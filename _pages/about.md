@@ -12,4 +12,4 @@ Pinhuan Wang is a Ph.D. student in the [Department of Electrical and Computer En
 
 
 
-Pinhuan received his B.S. degree from the [College of Computer Science and Technology](https://ccst.jlu.edu.cn/index.htm) at the [Jilin University](https://www.jlu.edu.cn/). in 2024.
+Pinhuan received his B.S. degree from the [College of Computer Science and Technology](https://ccst.jlu.edu.cn/index.htm) at the [Jilin University](https://www.jlu.edu.cn/) in 2024.
