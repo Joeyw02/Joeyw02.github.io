@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: 
+title: "Pinhuan Wang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
