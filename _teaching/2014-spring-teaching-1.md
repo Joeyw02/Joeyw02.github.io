@@ -1,9 +1,9 @@
 ---
-title: "TA of 2025SP - COMP ARCH & ASM LANG 14:332:331:01 and LAB 14:332:333:01"
+title: "Spring 2025 (TA): COMP ARCH & ASM LANG"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Rutgers University, Department"
+venue: "Rutgers University, ECE Department"
 date: 2014-01-01
 location: "City, Country"
 ---
