@@ -1,9 +1,9 @@
 ---
-title: "Teaching experience 1"
+title: "TA of 2025SP - COMP ARCH & ASM LANG 14:332:331:01 and LAB 14:332:333:01"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "Rutgers University, Department"
 date: 2014-01-01
 location: "City, Country"
 ---
