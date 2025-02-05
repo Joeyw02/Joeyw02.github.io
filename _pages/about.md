@@ -13,7 +13,7 @@ Pinhuan Wang is a Ph.D. student in the [Department of Electrical and Computer En
 <!-- News Section -->
 <h2>News</h2>
 <ul>
-    <li><strong>Feb 2024</strong> – Paper accepted to NeurIPS 2024 on LLM-based Graph Processing.</li>
+    <li><strong>Feb 2024</strong> – Paper exploring random walk on dynamic graphs has been accepted to EuroSys 2025.</li>
     <li><strong>Jan 2024</strong> – Joined XYZ research project on AI-powered recommendation systems.</li>
     <li><strong>Nov 2024</strong> – A collaborative work was accepted to PPoPP '25, congratulations Zhibin!</li>
     <li><strong>Jul 2024</strong> - I have graduated from Jilin University. I will always miss my days in Changchun.</li>
@@ -23,7 +23,7 @@ Pinhuan Wang is a Ph.D. student in the [Department of Electrical and Computer En
 <h2>Selected Publications</h2>
 <ul>
     <li>
-        <strong>P. Wang</strong>, J. Doe, X. Zhang. "BINGO: Radix-based Bias Factorization for Random Walk on Dynamic Graphs." 
+        <strong>P. Wang</strong>, C. Huan, Z. Wang, C. Tian, Y. Ji, H. Liu. "BINGO: Radix-based Bias Factorization for Random Walk on Dynamic Graphs." 
         <em>Eurosys</em>, 2025. [<a href="#">Paper</a>] [<a href="#">Code</a>]
     </li>
     <li>
