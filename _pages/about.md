@@ -15,7 +15,7 @@ Pinhuan Wang is a Ph.D. student in the [Department of Electrical and Computer En
 <ul>
     <li><strong>Feb 2024</strong> – Paper accepted to NeurIPS 2024 on LLM-based Graph Processing.</li>
     <li><strong>Jan 2024</strong> – Joined XYZ research project on AI-powered recommendation systems.</li>
-    <li><strong>Dec 2023</strong> – Invited talk at the International Conference on Graph Computing.</li>
+    <li><strong>Nov 2024</strong> – A collaborative work was accepted to PPoPP '25, congratulations Zhibin!</li>
 </ul>
 
 <!-- Selected Publications Section -->
@@ -26,8 +26,8 @@ Pinhuan Wang is a Ph.D. student in the [Department of Electrical and Computer En
         <em>Proceedings of NeurIPS</em>, 2024. [<a href="#">Paper</a>] [<a href="#">Code</a>]
     </li>
     <li>
-        <strong>P. Wang</strong>, A. Smith, B. Lee. "Efficient ANN Search for Billion-Scale Embeddings." 
-        <em>ICML</em>, 2023. [<a href="#">Paper</a>] [<a href="#">Code</a>]
+        Z. Wang, X. Lin, X. Li, <strong>P. Wang</strong>, Z. Meng, H. Liu, C. Tian, S. Zhong. "Swift Unfolding of Communities: GPU-Accelerated Louvain Algorithm." 
+        <em>PPoPP</em>, 2025. [<a href="#">Paper</a>] [<a href="#">Code</a>]
     </li>
 </ul>
 
