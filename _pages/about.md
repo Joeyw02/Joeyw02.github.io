@@ -14,7 +14,7 @@ Pinhuan Wang is a Ph.D. student in the [Department of Electrical and Computer En
 <h2>News</h2>
 <ul>
     <li><strong>Jan 2025</strong> – Paper exploring random walk on dynamic graphs has been accepted to EuroSys 2025.</li>
-    <li><strong>Jan 2024</strong> – Joined XYZ research project on AI-powered recommendation systems.</li>
+    <li><strong>Nov 2024</strong> – In my last-ever ICPC competition, our team achieved 10th place in the Greater NY Regional!</li>
     <li><strong>Nov 2024</strong> – A collaborative work was accepted to PPoPP '25, congratulations Zhibin!</li>
     <li><strong>Jul 2024</strong> – I have graduated from Jilin University. I will always miss my days in Changchun.</li>
 </ul>
