@@ -1,0 +1,15 @@
+---
+title: "Swift Unfolding of Communities: GPU-Accelerated Louvain Algorithm"
+collection: publications
+permalink: /publication/2025_PPOPP
+excerpt: 'This paper proposes GALA, a GPU-accelerated Louvain algorithm featuring a novel modularity gain-based pruning strategy and workload-aware GPU kernels to address existing pruning inaccuracies and state management inefficiencies. Experimental results demonstrate that GALA significantly reduces computations and synchronization overhead, achieving on average a 6× performance improvement over state-of-the-art approaches.'
+date: 2025-2-28
+venue: 'PPoPP '25'
+paperurl: 'https://dl.acm.org/doi/abs/10.1145/3710848.3710884'
+citation: 'Wang, Zhibin, Xi Lin, Xue Li, Pinhuan Wang, Ziheng Meng, Hang Liu, Chen Tian, and Sheng Zhong. "Swift Unfolding of Communities: GPU-Accelerated Louvain Algorithm." In Proceedings of the 30th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming, pp. 441-454. 2025.'
+---
+The Louvain algorithm is one of the most popular algorithms for community detection. Observing that existing implementations suffer from inaccurate pruning and inefficient intermediate state management, we introduce GALA, GPU-Accelerated Louvain Algorithm, which incorporates two key innovations. The first innovation is a novel modularity gain-based pruning strategy, supported by rigorous theoretical guarantees of optimality and able to reduce up to 76% of vertices as well as their corresponding computations. To take advantage of the memory hierarchy and parallelism of GPUs, the second innovation is workload-aware kernels, featuring a shuffle-based kernel founded on the warp-level primitives for exchange states and a hash-based kernel that prioritizes shared memory in hashtable design. GALA further scales to multiple GPUs by minimizing the synchronization overhead between GPUs through a dense-sparse synchronization strategy. We evaluate the performance of GALA through theoretical analysis and practical experiments on various real-world graphs. The experimental results confirm that GALA significantly improves the performance of the parallel Louvain algorithm on GPUs, surpassing state-of-the-art solutions by 6× on average.
+
+[Download paper here](https://dl.acm.org/doi/abs/10.1145/3710848.3710884)
+
+Recommended citation: Wang, Zhibin, Xi Lin, Xue Li, Pinhuan Wang, Ziheng Meng, Hang Liu, Chen Tian, and Sheng Zhong. "Swift Unfolding of Communities: GPU-Accelerated Louvain Algorithm." In Proceedings of the 30th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming, pp. 441-454. 2025.
