@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Rutgers University, ECE Department"
-date: 2025
+date: 2025-02-07
 location: "City, Country"
 ---
 
