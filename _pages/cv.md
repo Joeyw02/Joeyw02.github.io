@@ -23,9 +23,9 @@ Publications
 
 Selected Honors and Awards
 ======
-Champion in The 15th Northeast China Collegiate Programming Contest, Jun 2021
-Gold Medal(ranked 9th) in The 2020 China Collegiate Programming Contest Finals, May 2021
-Gold Medal in The 2020 ICPC Asia Shanghai Regional Contest, Dec 2020
+* Champion in The 15th Northeast China Collegiate Programming Contest, Jun 2021
+* Gold Medal(ranked 9th) in The 2020 China Collegiate Programming Contest Finals, May 2021
+* Gold Medal in The 2020 ICPC Asia Shanghai Regional Contest, Dec 2020
 
 Teaching
 ======
