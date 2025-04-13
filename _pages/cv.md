@@ -13,33 +13,19 @@ Education
 ======
 * Ph.D. in Computer Engneering, Rutgers University, 2024 ~ 2029 (expect)                                    
 * B.S.  in Computer Science,    Jilin University,   2020 ~ 2024 
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Selected Honors and Awards
+======
+Champion in The 15th Northeast China Collegiate Programming Contest, Jun 2021
+Gold Medal(ranked 9th) in The 2020 China Collegiate Programming Contest Finals, May 2021
+Gold Medal in The 2020 ICPC Asia Shanghai Regional Contest, Dec 2020
 
 Teaching
 ======
@@ -50,3 +36,4 @@ Teaching
 Service
 ======
 * Conference reviewing: HPDC 2025
+* Contest Problem Setter: Heilongjiang Provincial Collegiate Programming Contest 2022, 2023
