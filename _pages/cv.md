@@ -36,4 +36,4 @@ Teaching
 Service
 ======
 * Conference reviewing: HPDC 2025
-* Contest Problem Setter: Heilongjiang Provincial Collegiate Programming Contest 2022, 2023
+* Contest Problem Setter: Heilongjiang Provincial Collegiate Programming Contest 2022, 2023, 2024
