@@ -24,11 +24,11 @@ Pinhuan Wang is a Ph.D. student in the [Department of Electrical and Computer En
 <ul>
     <li>
         <strong>P. Wang</strong>, C. Huan, Z. Wang, C. Tian, Y. Ji, H. Liu. "BINGO: Radix-based Bias Factorization for Random Walk on Dynamic Graphs." 
-        <em>Eurosys</em>, 2025. [<a href="#">Paper</a>] [<a href="#">Code</a>]
+        <em>Eurosys</em>, 2025. [<a href="https://dl.acm.org/doi/abs/10.1145/3689031.3717456">Paper</a>]
     </li>
     <li>
         Z. Wang, X. Lin, X. Li, <strong>P. Wang</strong>, Z. Meng, H. Liu, C. Tian, S. Zhong. "Swift Unfolding of Communities: GPU-Accelerated Louvain Algorithm." 
-        <em>PPoPP</em>, 2025. [<a href="https://dl.acm.org/doi/abs/10.1145/3710848.3710884">Paper</a>] [<a href="#">Code</a>]
+        <em>PPoPP</em>, 2025. [<a href="https://dl.acm.org/doi/abs/10.1145/3710848.3710884">Paper</a>] 
     </li>
 </ul>
 
