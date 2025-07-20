@@ -10,6 +10,8 @@ redirect_from:
 
 Pinhuan Wang is a Ph.D. student in the [Department of Electrical and Computer Engineering](https://www.ece.rutgers.edu/) at Rutgers, the State University of New Jersey. His research interests include high-performance graph computing and applications of large language models (LLMs). He received his B.S. degree from the [College of Computer Science and Technology](https://ccst.jlu.edu.cn/index.htm) at Jilin University in 2024.
 
+Explore our latest academic platform for paper discovery: [ipapers.ai](https://ipapers.ai).
+
 <!-- News Section -->
 <h2>News</h2>
 <ul>
