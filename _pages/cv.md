@@ -36,4 +36,5 @@ Teaching
 Service
 ======
 * Conference reviewing: HPDC 2025, IEEE Cloud Summit 2025
+* Poster Co-Chair: IEEE Cloud Summit 2025
 * Contest Problem Setter: Heilongjiang Provincial Collegiate Programming Contest 2022, 2023, 2024
