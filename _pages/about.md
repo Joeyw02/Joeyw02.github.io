@@ -15,7 +15,7 @@ Explore our latest academic platform for paper discovery: [ipapers.ai](https://i
 <!-- News Section -->
 <h2>News</h2>
 <ul>
-    <li><strong>Aug 2025</strong> – REALM, Recursive Relevance Modeling for LLM-based Document Re-Ranking was accepted to EMNLP 2025.</li>
+    <li><strong>Aug 2025</strong> – Paper about LLM-based document re-ranking was accepted to EMNLP 2025.</li>
     <li><strong>Jan 2025</strong> – Paper exploring random walk on dynamic graphs has been accepted to EuroSys 2025.</li>
     <li><strong>Nov 2024</strong> – In my last ICPC battle, our team achieved 10th place in the GNYR!</li>
     <li><strong>Nov 2024</strong> – A collaborative work was accepted to PPoPP '25, congratulations Zhibin!</li>
