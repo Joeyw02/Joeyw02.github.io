@@ -25,6 +25,9 @@ Explore our latest academic platform for paper discovery: [ipapers.ai](https://i
 <!-- Selected Publications Section -->
 <h2>Selected Publications</h2>
 <ul>
+      <li>
+      <strong>P. Wang</strong>strong>, Z. Xia, C. Liao, F. Wang, H. Liu. “REALM: Recursive Relevance Modeling for LLM-based Document Re-Ranking.” <em>EMNLP</em>, 2025.
+    </li>
     <li>
         <strong>P. Wang</strong>, C. Huan, Z. Wang, C. Tian, Y. Ji, H. Liu. "BINGO: Radix-based Bias Factorization for Random Walk on Dynamic Graphs." 
         <em>Eurosys</em>, 2025. [<a href="https://dl.acm.org/doi/abs/10.1145/3689031.3717456">Paper</a>]
